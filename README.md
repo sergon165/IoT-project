@@ -18,7 +18,7 @@ docker-compose up -d
 docker-compose down
 ```
 ### Python
-#### Установка
+#### Установка зависимостей
 
 Для Windows
 ```
